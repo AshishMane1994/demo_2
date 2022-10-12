@@ -1,0 +1,22 @@
+.row1{
+    border: 2px solid red;
+}
+.col1{
+    border:1px solid black;
+}
+.red{
+    background-color: red;
+}
+.orange{
+    background-color: orange;
+}
+.gray{
+    background-color:gray;
+}
+.pink{
+    background-color:pink;
+}
+.black{
+    background-color:black;
+    color: white;
+}
